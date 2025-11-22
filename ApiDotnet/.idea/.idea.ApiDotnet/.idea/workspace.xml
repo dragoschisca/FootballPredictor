@@ -8,17 +8,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="df986b6d-d80f-4c66-85ae-7e9f7f9e429d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ApiDotnet/Controllers/PredictionsController.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ApiDotnet/Models/DTOs/CoachDto.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ApiDotnet/Models/DTOs/CountryDto.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ApiDotnet/Models/DTOs/LeagueDto.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ApiDotnet/Models/DTOs/SeasonDto.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ApiDotnet/Models/DTOs/TeamDto.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ApiDotnet/Models/DTOs/VenueDto.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ApiDotnet/Models/Entites/Fixture.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ApiDotnet/Models/Entites/League.cs" afterDir="false" />
-    </list>
+    <list default="true" id="df986b6d-d80f-4c66-85ae-7e9f7f9e429d" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,7 +18,7 @@
     <option name="firstShow" value="false" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/ApiDotnet" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/ApiDotnet/Controllers/PredictionsController.cs" root0="FORCE_HIGHLIGHTING" />
@@ -110,7 +100,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1763829350274</updated>
-      <workItem from="1763829351291" duration="2087000" />
+      <workItem from="1763829351291" duration="2428000" />
     </task>
     <servers />
   </component>
